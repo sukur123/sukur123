@@ -2,10 +2,9 @@
 <div style="text-align: left;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Sukur;LLM+Researcher;Encryption+Specialist;Open+Source+Builder" alt="Typing animation" />
   
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sukur123.sukur123&style=flat-square&color=00ffff)
+
   
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-</div>
+
 
 ---
 
