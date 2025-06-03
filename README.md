@@ -107,7 +107,7 @@
 
   <!-- FOOTER -->
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer&text=sukur123&fontSize=20&fontColor=16e6f9" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=100&section=footer&text=#&fontSize=20&fontColor=16e6f9" />
   </div>
 
 </div>
