@@ -31,7 +31,7 @@
       I’m a Georgian software engineer passionate about <span style="color:#00ffff;">advanced cryptography</span> and <span style="color:#00ffff;">large language model (LLM) infrastructure</span>.<br/>
       By day, I architect secure, scalable systems focused on privacy and encryption.<br/>
       By night, I contribute actively to <span style="color:#00ffff;">open-source</span> projects and innovate in the AI space.<br/>
-      Currently developing <a href="https://github.com/sukur123/ravun" style="color:#00ffff; text-decoration:none;">Ravun</a>, a next-generation LLM research toolkit aiming to empower researchers worldwide.
+      Currently developing <a href="https://github.com/sukur123/ravun" style="color:#00ffff; text-decoration:none;">Ravun</a>, a next-generation Coding Lang LLM research toolkit aiming to empower researchers worldwide.
     </p>
   </div>
 
