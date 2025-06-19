@@ -100,9 +100,7 @@
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-top: 40px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sukur123&show_icons=true&theme=dark&bg_color=000000&title_color=00ffff&text_color=fff&border_color=00ffff" 
        style="width: 400px; height: 200px; object-fit: contain;" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukur123&theme=dark&background=000000&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=00ffff&currStreakLabel=00ffff" 
-       style="width: 400px; height: 200px; object-fit: contain;" alt="GitHub Streak Stats" />
-</div>
+  
 
 
   <!-- FOOTER -->
