@@ -6,7 +6,6 @@
   
   <br/>
 
-  <!-- SOCIAL LINKS -->
   <p>
     <a href="https://twitter.com/sukurbabaev" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-00ffff?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter"/>
