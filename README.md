@@ -30,43 +30,9 @@
       I’m a Georgian software engineer passionate about <span style="color:#00ffff;">advanced cryptography</span> and <span style="color:#00ffff;">large language model (LLM) infrastructure</span>.<br/>
       By day, I architect secure, scalable systems focused on privacy and encryption.<br/>
       By night, I contribute actively to <span style="color:#00ffff;">open-source</span> projects and innovate in the AI space.<br/>
-      Currently developing <a href="https://github.com/sukur123/ravun" style="color:#00ffff; text-decoration:none;">Ravun</a>, a next-generation Coding Lang LLM research toolkit aiming to empower researchers worldwide.
-    </p>
+   
   </div>
 
-  <!-- ACTIVE PROJECTS -->
-  <h2 style="color:#00ffff; text-shadow: 0 0 8px #00ffff;">🚀 Active Projects</h2>
-
-  <table style="width: 100%; color: white; border-collapse: collapse; margin-bottom: 30px;">
-    <thead>
-      <tr style="border-bottom: 1px solid #00ffff;">
-        <th style="padding: 8px 5px; text-align: left;">Project</th>
-        <th style="padding: 8px 5px; text-align: left;">Description</th>
-        <th style="padding: 8px 5px; text-align: left;">Tech Stack</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #00ffff;">
-        <td style="padding: 8px 5px;">
-          <b><a href="https://github.com/sukur123/ravun" style="color:#00ffff; text-decoration:none;">Ravun</a></b>
-        </td>
-        <td style="padding: 8px 5px;">NewGen Coding Language</td>
-        <td style="padding: 8px 5px;">
-          <img src="https://img.shields.io/badge/-Python-00ffff?style=flat-square&logo=python&logoColor=black" alt="Python" />
-          <img src="https://img.shields.io/badge/-Rust-00ffff?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 8px 5px;">
-          <b><a href="https://github.com/sukur123/THMessage/" style="color:#00ffff; text-decoration:none;">TGMessage</a></b>
-        </td>
-        <td style="padding: 8px 5px;">Quantum-resistant Messaging Over TorNetwork</td>
-        <td style="padding: 8px 5px;">
-          <img src="https://img.shields.io/badge/-Go-00ffff?style=flat-square&logo=go&logoColor=black" alt="Go" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
 
 <!-- TECH STACK + LANGUAGES -->
 <div style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;">
